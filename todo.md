@@ -1,4 +1,4 @@
-### Todo
+# Todo
 
 - ~~Sensible scrolling of output on site~~
 - ~~Inline `next` into `run`~~
@@ -13,4 +13,4 @@
 - Remove public access to stack, definitions
 - Implement backtick for js interop?
 - Go through `starting forth` to make sure all the examples work
-    + forget
+  - forget

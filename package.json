@@ -20,7 +20,7 @@
     "build:watch": "watchify browser/main.js -o 'exorcist bundle.js.map > bundle.js' -dv",
     "test": "test/run-ans-forth-tests.js",
     "test:watch": "watch 'npm run test' .",
-    "start": "python -m SimpleHTTPServer"
+    "start": "python3 -m http.server 8282"
   },
   "dependencies": {
     "long": "^3.0.3",
